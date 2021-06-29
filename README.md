@@ -61,10 +61,12 @@ options(vsc.use_httpgd = TRUE)
 - Plot something, the `httpgd` plot viewer will appear. Visit [httpgd](https://github.com/nx10/httpgd) for more tricks.
 - Adjust UI layout，login your Github, explore more settings, extensions and themes...
 
-`R` workflow in `VS Code` is now fully functional. Currently `VS Code` is not overall better than `RStudio`, but I do see its potential. 
+`R` workflow in `VS Code` is now fully functional. Currently `VS Code` is not overall better than `RStudio`, but I do see its potential. Please leave a comment if you have any problem, and view all the GitHub project links provided above to report an issue or find a solution.
+
+**Last update: 06/29/2021**
 
 # Examples
-**Theme, GitLens, radian terminal, UI layout**
+**Theme, R extension, GitLens, radian terminal, UI layout**
 
 ![image](https://user-images.githubusercontent.com/57348932/123862034-22c22480-d928-11eb-96d4-49052e9a0579.png)
 

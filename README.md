@@ -11,12 +11,12 @@ To establish a smooth `R` workflow, you need to install `R Base`, `VS Code` and 
 - [Python](https://www.python.org/)  Get the latest release.
 
 # Installing extensions
-You can find the Extensions Tab at the left-most panel in `VS Code`. Click on it and then search for the following extensions. They are fundamental for you to work with `R`.
+You can find the Extensions Tab at the left-most panel in `VS Code`. Click on it and then search for the following extensions. They are fundamental for you to work with `R`:
 - [R](https://github.com/Ikuyadeu/vscode-R) It provides basic R support for VS Code. Install R, not R Tools.
 - [R LSP Client](https://github.com/REditorSupport/languageserver) It provides powerful editor support including formatting and debugging.
 
 
-I strongly recommend you to also install the following extensions.
+I strongly recommend you to also install the following extensions:
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) It allows matching brackets to be identified with colours. This is quite useful in R coding.
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) It allows you to review and manage GitHub pull requests and issues.
 - [GitLens — Git supercharged](https://github.com/eamodio/vscode-gitlens) It "helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more".

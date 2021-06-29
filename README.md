@@ -12,7 +12,7 @@ To establish a smooth `R` workflow, you need to install `R Base`, `VS Code` and 
 
 # Installing extensions
 You can find the Extensions Tab at the left-most panel in `VS Code`. Click on it and then search for the following extensions. They are fundamental for you to work with `R`:
-- [R](https://github.com/Ikuyadeu/vscode-R) It provides basic R support for VS Code. Install R, not R Tools.
+- [R](https://github.com/Ikuyadeu/vscode-R) It provides basic R support for `VS Code`. Install R, not R Tools.
 - [R LSP Client](https://github.com/REditorSupport/languageserver) It provides powerful editor support including formatting and debugging.
 
 

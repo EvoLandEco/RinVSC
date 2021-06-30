@@ -65,7 +65,7 @@ options(vsc.use_httpgd = TRUE)
 
 `R` workflow in `VS Code` is now fully functional. Currently `VS Code` is not overall better than `RStudio`, but I do see its potential. Please open an issue if you have any problem, and don't forget to visit all the GitHub project links provided above to report an issue or find a solution.
 
-**Last Update: 06/29/2021**
+**Last Update: 06/30/2021**
 
 # Examples
 **Theme, R extension, GitLens, radian terminal, UI layout**

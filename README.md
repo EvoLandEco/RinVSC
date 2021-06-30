@@ -51,10 +51,12 @@ To use `radian`, you need to set up the R extension manually. Switch to the Exte
 - Press `Ctrl + Shift + P`, enter `create R terminal`, then press `Enter`. Your `radian` enhanced `R` console will open.
 - In `R` console, install the following packages:
 ```
+# packages to integrate VS Code with R
 install.packages(c("jsonlite", "lintr", "languageserver", "httpgd"))
 ```
 - Put the following option in `~/.Rprofile`:
 ```
+# enable httpgd graphic device
 options(vsc.use_httpgd = TRUE)
 ```
 - Restart `VS Code` and create an `R` terminal.

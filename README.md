@@ -21,9 +21,9 @@ I strongly recommend you to also install the following extensions for the market
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) It allows matching brackets to be identified with colours. This is quite useful in coding.
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) It allows you to review and manage Github pull requests and issues.
 - [GitLens — Git supercharged](https://github.com/eamodio/vscode-gitlens) It "helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more".
-- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) It is one of the most installed themes for `VS Code`.
 
-Feel free to find your favourite extenstions in the marketplace, `VS Code` is highly customisable.
+Feel free to find your favourite themes and extenstions in the marketplace, `VS Code` is highly customisable. The following theme is my favourite:
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) It is one of the most installed themes for `VS Code`.
 
 # III. Installing an alternative R console
 ![image](https://user-images.githubusercontent.com/57348932/123850591-834a6500-d91a-11eb-8f98-7a0d027b932a.png)

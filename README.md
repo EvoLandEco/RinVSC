@@ -74,7 +74,7 @@ The developers of the extensions are actively updating and implementing new feat
 
 
 - Plot something, the `httpgd` plot viewer will appear.
-- You can find workspace viewer and help pages in the R Tab.
+- You can find workspace viewer and help pages in the R Tab. The workspace viewer is not as powerful as that in `R Studio` now, but an update is coming.
 - `VS Code` UI is much more flexible that `R Studio`, right click on all the panels and tabs to see what you can do.
 - Always remember to hit `Tab` when you are typing something in radian (R console) to trigger auto-completion
 
